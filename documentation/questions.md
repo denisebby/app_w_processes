@@ -1,0 +1,1 @@
+How do I hide the path to my GCS bucket? I want it to work when I deploy on cloud run. But I don't want to explicitly define it in app.py.
